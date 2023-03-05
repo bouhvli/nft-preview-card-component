@@ -31,3 +31,4 @@ The designs were created to the following widths:
 
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 300, 400, 600
+ [Outfit](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
